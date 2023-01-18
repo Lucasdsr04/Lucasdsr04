@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Lucas Santos!! 👋
 
 <div align="center">
-  <a href="https://github.com/Lucasdsr04">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasdsr04&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/lucasdsr04">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdsr04&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdsr04&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
